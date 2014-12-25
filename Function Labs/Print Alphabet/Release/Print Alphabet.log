@@ -1,0 +1,25 @@
+﻿Build started 8/7/2013 1:39:32 PM.
+     1>Project "C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Print Alphabet.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Print Alphabet.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Print Alphabet.cpp" "Source Codes.cpp"
+         Print Alphabet.cpp
+     1>Print Alphabet.cpp(11): warning C4101: 'choice' : unreferenced local variable
+         Source Codes.cpp
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Release\Print Alphabet.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Print Alphabet.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Release\Print Alphabet.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Release\Print Alphabet.lib" /MACHINE:X86 "Release\Print Alphabet.obj"
+         "Release\Source Codes.obj"
+         Generating code
+         Finished generating code
+         Print Alphabet.vcxproj -> C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Release\Print Alphabet.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Release\Print Alphabet.exe;#1" /manifest "Release\Print Alphabet.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Print Alphabet.unsuccessfulbuild".
+         Touching "Release\Print Alphabet.lastbuildstate".
+     1>Done Building Project "C:\Users\ct-d119\Dropbox\bhcc\2013 summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Print Alphabet\Print Alphabet.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38

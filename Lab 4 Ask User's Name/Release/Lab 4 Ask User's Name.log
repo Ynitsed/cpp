@@ -1,0 +1,17 @@
+﻿Build started 6/16/2013 3:12:09 PM.
+     1>Project "X:\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Lab 4 Ask User's Name\Lab 4 Ask User's Name.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Lab 4 Ask User's Name.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lab 4 Ask User's Name.vcxproj -> X:\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Lab 4 Ask User's Name\Release\Lab 4 Ask User's Name.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Lab 4 Ask User's Name.unsuccessfulbuild".
+         Touching "Release\Lab 4 Ask User's Name.lastbuildstate".
+     1>Done Building Project "X:\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Lab 4 Ask User's Name\Lab 4 Ask User's Name.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

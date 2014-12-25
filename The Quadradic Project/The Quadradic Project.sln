@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The Quadradic Project", "The Quadradic Project.vcxproj", "{ABC4275F-88C4-4DD9-95C6-3C5B3CB7841D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC4275F-88C4-4DD9-95C6-3C5B3CB7841D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABC4275F-88C4-4DD9-95C6-3C5B3CB7841D}.Debug|Win32.Build.0 = Debug|Win32
+		{ABC4275F-88C4-4DD9-95C6-3C5B3CB7841D}.Release|Win32.ActiveCfg = Release|Win32
+		{ABC4275F-88C4-4DD9-95C6-3C5B3CB7841D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

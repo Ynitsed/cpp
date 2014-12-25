@@ -1,0 +1,17 @@
+﻿Build started 2013/8/5 2:04:51.
+     1>Project "X:\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Function Overloading\Function Overloading.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Function Overloading.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Function Overloading.vcxproj -> X:\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Function Overloading\Release\Function Overloading.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Function Overloading.unsuccessfulbuild".
+         Touching "Release\Function Overloading.lastbuildstate".
+     1>Done Building Project "X:\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\Function Overloading\Function Overloading.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12

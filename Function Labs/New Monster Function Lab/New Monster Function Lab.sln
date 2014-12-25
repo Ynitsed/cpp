@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Monster Function Lab", "New Monster Function Lab.vcxproj", "{92CBA38F-A166-4F6B-9A5E-1990C3FEBA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CBA38F-A166-4F6B-9A5E-1990C3FEBA56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92CBA38F-A166-4F6B-9A5E-1990C3FEBA56}.Debug|Win32.Build.0 = Debug|Win32
+		{92CBA38F-A166-4F6B-9A5E-1990C3FEBA56}.Release|Win32.ActiveCfg = Release|Win32
+		{92CBA38F-A166-4F6B-9A5E-1990C3FEBA56}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

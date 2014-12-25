@@ -1,0 +1,35 @@
+﻿Build started 7/15/2013 2:53:12 PM.
+     1>Project "C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Numbering System Converter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Numbering System Converter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Numbering System Converter.cpp"
+         Numbering System Converter.cpp
+     1>Numbering System Converter.cpp(53): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Numbering System Converter.cpp(48) : definition of 'i' ignored
+                 Numbering System Converter.cpp(11) : definition of 'i' used
+     1>Numbering System Converter.cpp(53): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Numbering System Converter.cpp(48) : definition of 'i' ignored
+                 Numbering System Converter.cpp(11) : definition of 'i' used
+     1>Numbering System Converter.cpp(55): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Numbering System Converter.cpp(48) : definition of 'i' ignored
+                 Numbering System Converter.cpp(11) : definition of 'i' used
+     1>Numbering System Converter.cpp(55): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Numbering System Converter.cpp(48) : definition of 'i' ignored
+                 Numbering System Converter.cpp(11) : definition of 'i' used
+     1>Numbering System Converter.cpp(11): warning C4101: 'value' : unreferenced local variable
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Release\Numbering System Converter.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Numbering System Converter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Release\Numbering System Converter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Release\Numbering System Converter.lib" /MACHINE:X86 "Release\Numbering System Converter.obj"
+         Generating code
+         Finished generating code
+         Numbering System Converter.vcxproj -> C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Release\Numbering System Converter.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Release\Numbering System Converter.exe;#1" /manifest "Release\Numbering System Converter.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Numbering System Converter.unsuccessfulbuild".
+         Touching "Release\Numbering System Converter.lastbuildstate".
+     1>Done Building Project "C:\Users\ct-d119\Dropbox\Study\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Numbering System Converter\Numbering System Converter\Numbering System Converter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.18

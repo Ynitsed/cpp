@@ -1,0 +1,39 @@
+// Prime Numbers
+// Find a number is prime or not
+// Kaili Lu 
+// Last Modified 3-12-2013 3:45
+
+#include<iostream>
+#include<math.h>
+
+using namespace std;
+
+int main()
+{
+	bool isPrime;
+	int a,b;
+
+	cout << "\t         Classify a number as prime or not.\n"
+		 << "\tUses for and bool flag as well as conditional operator.\n"
+		 << "\t                    By Kaili Lu\n\n";
+
+	while (true)
+	{
+		isPrime = true;
+		cout << "Give me an integer: ";
+		cin  >> a;   cin.ignore(80,'\n');
+
+		while (a <= 1){
+			cout << "Prime numbers are defined for integers bigger than 1. Try again: ";
+			cin  >> a;  cin.ignore(80,'\n'); 
+		}
+
+		for( b=2; b < a; b++){
+			if( a%b == 0 ){
+				isPrime = false;
+				break;
+			}
+		}
+		cout << a << " is " << ( isPrime? "" : "NOT ") << "a prime number.\n\n";
+	}
+}

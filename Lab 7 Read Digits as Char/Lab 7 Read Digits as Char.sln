@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 7 Read Digits as Char", "Lab 7 Read Digits as Char.vcxproj", "{9761C3C6-24B4-4218-98B9-F92E90166DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9761C3C6-24B4-4218-98B9-F92E90166DA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9761C3C6-24B4-4218-98B9-F92E90166DA3}.Debug|Win32.Build.0 = Debug|Win32
+		{9761C3C6-24B4-4218-98B9-F92E90166DA3}.Release|Win32.ActiveCfg = Release|Win32
+		{9761C3C6-24B4-4218-98B9-F92E90166DA3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

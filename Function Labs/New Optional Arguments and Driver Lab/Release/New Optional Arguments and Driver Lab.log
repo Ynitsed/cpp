@@ -1,0 +1,25 @@
+﻿Build started 8/5/2013 2:29:29 PM.
+     1>Project "C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\New Optional Arguments and Driver Lab.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\New Optional Arguments and Driver Lab.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "New Optional Arguments and Driver Lab.cpp"
+         New Optional Arguments and Driver Lab.cpp
+     1>New Optional Arguments and Driver Lab.cpp(48): warning C4101: 'endcase' : unreferenced local variable
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\Release\New Optional Arguments and Driver Lab.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\New Optional Arguments and Driver Lab.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\Release\New Optional Arguments and Driver Lab.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\Release\New Optional Arguments and Driver Lab.lib" /MACHINE:X86 "Release\New Optional Arguments and Driver Lab.obj"
+         Generating code
+     1>c:\users\ct-d119\dropbox\bhcc\2013 summer\cit-120-a1 intro to computer sci\labs\function labs\new optional arguments and driver lab\new optional arguments and driver lab.cpp(145): warning C4700: uninitialized local variable 'endcase' used
+     1>c:\users\ct-d119\dropbox\bhcc\2013 summer\cit-120-a1 intro to computer sci\labs\function labs\new optional arguments and driver lab\new optional arguments and driver lab.cpp(71): warning C4700: uninitialized local variable 'choice' used
+         Finished generating code
+         New Optional Arguments and Driver Lab.vcxproj -> C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\Release\New Optional Arguments and Driver Lab.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\Release\New Optional Arguments and Driver Lab.exe;#1" /manifest "Release\New Optional Arguments and Driver Lab.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\New Optional Arguments and Driver Lab.unsuccessfulbuild".
+         Touching "Release\New Optional Arguments and Driver Lab.lastbuildstate".
+     1>Done Building Project "C:\Users\ct-d119\Dropbox\BHCC\2013 Summer\CIT-120-A1 Intro to Computer Sci\Labs\Function Labs\New Optional Arguments and Driver Lab\New Optional Arguments and Driver Lab.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54

@@ -1,0 +1,10 @@
+ Product Name           PID         Quantity            Price            Worth
+===============================================================================
+almont chocolate        126                6        $    5.50       $    33.00
+soda                    658               12        $    1.99       $    23.88
+
+
+Your inventory is worth: $56.88
+The product with the highest price is: "almont chocolate"
+The product with the lowest price is: "soda"
+The average price of all items is: $3.16
